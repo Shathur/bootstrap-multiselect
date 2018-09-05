@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-multiselect",
-  "version": "0.9.15",
+  "name": "@activix/bootstrap-multiselect",
   "description": "JQuery multiselect plugin based on Twitter Bootstrap.",
+  "version": "1.0.0",
   "main": "dist/js/bootstrap-multiselect.js",
   "directories": {
     "doc": "docs",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidstutz/bootstrap-multiselect"
+    "url": "https://github.com/activix/bootstrap-multiselect"
   },
   "keywords": [
     "js",
@@ -21,10 +21,6 @@
   ],
   "author": "David Stutz",
   "license": "Apache License, Version 2.0",
-  "bugs": {
-    "url": "https://github.com/davidstutz/bootstrap-multiselect/issues"
-  },
-  "homepage": "http://davidstutz.de/bootstrap-multiselect/",
   "scripts": {
     "test": "karma start tests/karma.conf.js --single-run"
   },
