@@ -1,5 +1,5 @@
 {
-  "name": "@activix/bootstrap-multiselect",
+  "name": "@eliasny/bootstrap-multiselect",
   "description": "JQuery multiselect plugin based on Twitter Bootstrap.",
   "version": "1.0.0",
   "main": "dist/js/bootstrap-multiselect.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/activix/bootstrap-multiselect"
+    "url": "https://github.com/eliasny/bootstrap-multiselect"
   },
   "keywords": [
     "js",
